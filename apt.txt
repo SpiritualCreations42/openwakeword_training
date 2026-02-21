@@ -1,1 +1,4 @@
-# apt packages to install should be listed one per line
+# System packages required for openWakeWord training
+ffmpeg
+libsndfile1
+espeak-ng
