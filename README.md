@@ -5,7 +5,7 @@ Trains models for deployment to ESPHome-based voice assistants integrated with H
 
 ## Get Started (NVIDIA AI Workbench)
 
-1. Open this project in NVIDIA AI Workbench on YOUR_SERVER
+1. Open this project in NVIDIA AI Workbench on a machine with an NVIDIA GPU
 2. Click **Start** on the Project Container — it will build the PyTorch + CUDA environment
 3. Once running, click **Open JupyterLab**
 4. Open `code/automatic_model_training.ipynb`
